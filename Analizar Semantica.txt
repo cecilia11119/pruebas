@@ -5,5 +5,5 @@ ayuda a saber si esta pagina tiene buena semantica web
 
 agregue mas 
 lineas para ver
-si actualiza eol archivo
-con git push -u origin master
+si actualiza el archivo
+con gitHub desktop
