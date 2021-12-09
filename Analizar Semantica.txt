@@ -2,3 +2,8 @@ esta pagina analiza la semantica web
 https://gsnedders.html5.org/outliner/
 si se presiona el boton OUTLINE THIS
 ayuda a saber si esta pagina tiene buena semantica web 
+
+agregue mas 
+lineas para ver
+si actualiza eol archivo
+con git push -u origin master
